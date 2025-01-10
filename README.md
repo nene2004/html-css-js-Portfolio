@@ -9,3 +9,4 @@ Responsive Design: The portfolio is built with responsiveness in mind. It adapts
 Interactive Elements: The portfolio includes smooth scrolling, hover effects, and animated transitions to keep things engaging.
 Project Showcase: A dedicated section to showcase my projects, including live demos and links to GitHub repositories.
 Contact Section: Easy access to my contact details, including email and phone number, for any inquiries or collaboration opportunities.
+Direct Link: https://nene2004.github.io/html-css-js-Portfolio/
